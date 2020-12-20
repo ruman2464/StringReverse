@@ -11,6 +11,7 @@ public class ArrrayProblems {
 		// pairofSum();
 		 maxinarray();
 		 getmin();
+		 int ishrak = 7;
 		 
 	
 	}
